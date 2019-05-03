@@ -13,13 +13,25 @@ github的markdown不支持公式, 安装下面的 chrome 安装插件，可以�
 
 ## Links
 
-[week1 Introduction to optimization](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week1.md)
+[week1 Introduction to optimization](https://github.com/rubust-ai/Introduction-to-Deep-Learning/blob/master/week1.md)
 
 
-[week2 Introduction to Computer Vision](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week2.md)
+[week2 Introduction to neural networks](https://github.com/rubust-ai/Introduction-to-Deep-Learning/blob/master/week2.md)
 
 
-[week3 Enhancing Vision with Convolutional Neural Networks](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week3.md)
 
 
-[week4 Using Real-world Images](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week4.md)
+[week3 Deep Learning for images](https://github.com/rubust-ai/Introduction-to-Deep-Learning/blob/master/week3.md)
+
+
+[week4 Unsupervised representation learning](https://github.com/rubust-ai/Introduction-to-Deep-Learning/blob/master/week4.md)
+
+
+[week5 Deep learning for sequences](https://github.com/rubust-ai/Introduction-to-Deep-Learning/blob/master/week5.md)
+
+
+
+[week6 Final Project](https://github.com/rubust-ai/Introduction-to-Deep-Learning/blob/master/week6.md)
+
+
+
