@@ -11,7 +11,7 @@ github的markdown不支持公式, 安装下面的 chrome 安装插件，可以�
 [github with mathjax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
 
 
-## Links
+## 笔记
 
 [week1 Introduction to optimization](https://github.com/rubust-ai/Introduction-to-Deep-Learning/blob/master/week1.md)
 
@@ -32,6 +32,8 @@ github的markdown不支持公式, 安装下面的 chrome 安装插件，可以�
 
 
 [week6 Final Project](https://github.com/rubust-ai/Introduction-to-Deep-Learning/blob/master/week6.md)
+
+## 作业
 
 
 
